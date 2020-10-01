@@ -1,1 +1,3 @@
 hello git, i am fwv!
+i like git
+i don't like git
