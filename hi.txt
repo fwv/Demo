@@ -3,3 +3,6 @@ i don't care if i like git!
 i like git
 i don't like git
 1st change on master
+1st change on b3
+2rd change on b3
+[m]1st change onn b3
